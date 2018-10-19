@@ -1,11 +1,12 @@
 {
-  "main.css": "static/css/main.a01410a1.css",
-  "main.css.map": "static/css/main.a01410a1.css.map",
-  "main.js": "static/js/main.83e758fe.js",
-  "main.js.map": "static/js/main.83e758fe.js.map",
+  "main.css": "static/css/main.7c2bb3a6.css",
+  "main.css.map": "static/css/main.7c2bb3a6.css.map",
+  "main.js": "static/js/main.8a911e31.js",
+  "main.js.map": "static/js/main.8a911e31.js.map",
   "static/media/emeritus.png": "static/media/emeritus.755066eb.png",
+  "static/media/open.svg": "static/media/open.68a3d13b.svg",
   "static/media/sheridan.png": "static/media/sheridan.5a864f95.png",
-  "static/media/silhouette_temp.png": "static/media/silhouette_temp.f2db952f.png",
-  "static/media/silhouette_temp_alt.png": "static/media/silhouette_temp_alt.1b81c0f0.png",
+  "static/media/silhouette_bright.png": "static/media/silhouette_bright.ae53417a.png",
+  "static/media/silhouette_dark.png": "static/media/silhouette_dark.04a0dd16.png",
   "static/media/tsl.svg": "static/media/tsl.34714a42.svg"
 }
